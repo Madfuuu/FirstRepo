@@ -1,3 +1,3 @@
 # FirstRepo
-Test repo for Data Sciencecourse
+Test repo for Data Science course
 Trying out this stuff
